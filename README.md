@@ -28,36 +28,42 @@ I want to gain hands-on experience applying attack techniques and/or detection a
 
 ---
 
-🧰 **Tools**
+### 🧰 Tools
 
-### 🕸️ Network
+#### 🕸️ Network & Packet Analysis
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-004D99?&style=for-the-badge&logo=Nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tcpdump-4C4C4C?&style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nmap-004D99?&style=for-the-badge&logo=Nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Netcat-1F2937?&style=for-the-badge&logo=gnu&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Snort-FF3366?&style=for-the-badge&logo=snort&logoColor=white" />
 </div>
 
-### 💻 Endpoint / Red Team
+#### 🔎 Recon & Scanning
 <div>
-    <img src="https://img.shields.io/badge/-BloodHound-0A0A0A?&style=for-the-badge&logo=Neo4j&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Impacket-111111?&style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Mimikatz-8B0000?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nessus-FF6A00?&style=for-the-badge&logo=Tenable&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Gobuster-111111?&style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQLMap-2D2D2D?&style=for-the-badge&logo=database&logoColor=white" />
 </div>
 
-### 📊 SIEM / Blue Team
+#### ⚔️ Exploitation & Web
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic_SIEM-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Metasploit-CC0000?&style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Burp_Suite-000000?&style=for-the-badge&logo=burpsuite&logoColor=white" />
 </div>
 
-### 🧰 Other
+#### 🔐 Passwords & Credential Tools
 <div>
-    <img src="https://img.shields.io/badge/-TheHive-FCC624?&style=for-the-badge&logo=Apache&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Shuffle_SOAR-00BFFF?&style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-    <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+  <img src="https://img.shields.io/badge/-John_the_Ripper-343434?&style=for-the-badge&logo=hashicorp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Hydra-0A0A0A?&style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Mimikatz-8B0000?&style=for-the-badge&logo=windows&logoColor=white" />
+</div>
+
+#### 🛠️ Utilities & Analysis
+<div>
+  <img src="https://img.shields.io/badge/-CyberChef-0099FF?&style=for-the-badge&logo=mozilla&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=vmware&logoColor=white" />
 </div>
 
 ---
@@ -65,7 +71,6 @@ I want to gain hands-on experience applying attack techniques and/or detection a
 📜 **Certifications**
 <div>
     <img src="https://img.shields.io/badge/-Certified_Cybersecurity_Analyst_(CDSA)-006400?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Certified_Cyber_Defender_(CCD)-000080?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-TryHackMe_Badges-009CDE?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
 </div>
 
@@ -75,14 +80,6 @@ I want to gain hands-on experience applying attack techniques and/or detection a
 
 - 🕵️ [Active Directory Attacks Lab — pentest-focused (Pass-the-Hash, Kerberoasting)](https://github.com/YounessAzzakani)  
 - 🧩 [Detection & Attack Path Correlation (Java + ML)](https://github.com/YounessAzzakani)  
-- ⚙️ [SOC Automation Project (Shuffle SOAR + TheHive)](https://github.com/YounessAzzakani)  
 - 🔐 [AES Encryption & Decryption using Java](https://github.com/YounessAzzakani/AES-DynamicKey-Crypto-Java.git)  
 - 🧠 [ML for Intrusion Detection (RandomForest vs XGBoost)](https://github.com/YounessAzzakani)
 
----
-
-📫 **Connect with Me**
-
-- 💼 [LinkedIn](https://linkedin.com/in/youness-azzakani)  
-- 🧑‍💻 [GitHub](https://github.com/YounessAzzakani)  
-- ✉️ Email: youness.azzakani@example.com
