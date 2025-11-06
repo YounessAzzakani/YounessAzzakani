@@ -6,16 +6,15 @@
 
 **Brief Introduction**
 
-I’m a passionate cybersecurity student currently pursuing a **Master’s in Cybersecurity, Intelligence, and Emerging Technologies (CITEch)** at *Mohammed V University of Rabat*.  
-My focus is on **defensive security**, specializing in **incident detection, log analysis, and response automation**.  
-I enjoy working on **SOC labs**, building **SIEM and SOAR pipelines**, and applying the **MITRE ATT&CK framework** to detect and understand real-world attacks.  
-I’m driven by curiosity, continuous learning, and the desire to protect digital environments through technical precision and automation.
+I’m a cybersecurity student currently pursuing a **Master’s in Cybersecurity, Intelligence, and Emerging Technologies (CITEch)** at *Mohammed V University of Rabat*.  
+While I have experience across defensive tools and SOC workflows, I currently prefer **offensive security and penetration testing** — building practical skills through labs, AD attack simulations, and red-team style assessments. I also enjoy log analysis, building detection pipelines, and automation. I learn by doing (labs, code, and CTF-like exercises) and I’m constantly improving my toolkit.
 
 ---
 
 🎯 **Objective**
 
-My goal is to join a **Security Operations Center (SOC)** as a **Tier 1 / Junior Analyst**, where I can apply my skills in threat detection, incident investigation, and security automation while continuing to grow as a cybersecurity professional.
+I am actively looking for an **internship (PFE / internship)** in cybersecurity — open to either **offensive (pentest/red team)** or **defensive (SOC/blue team)** roles.  
+I want to gain hands-on experience applying attack techniques and/or detection and response workflows, and contribute to real-world security teams.
 
 ---
 
@@ -23,13 +22,13 @@ My goal is to join a **Security Operations Center (SOC)** as a **Tier 1 / Junior
 
 | Skill                                         | Associated Project                                                                 |
 |----------------------------------------------|------------------------------------------------------------------------------------|
+| Penetration Testing & Vulnerability Assessment| [Active Directory Attacks Lab (Pentest-focused)](https://github.com/YounessAzzakani) |
 | SIEM Implementation and Log Analysis          | [Detection and Attack Path Correlation (Java)](https://github.com/YounessAzzakani) |
-| Network Traffic Monitoring & Attack Detection | [Active Directory Security & Attacks Lab](https://github.com/YounessAzzakani)     |
+| Network Traffic Monitoring & Attack Detection | [Detection Lab / Network Monitoring Exercises](https://github.com/YounessAzzakani) |
 | Security Automation with Shuffle SOAR         | [SOC Automation Project](https://github.com/YounessAzzakani)                       |
 | Incident Response Planning & Execution        | [SOC Automation Project](https://github.com/YounessAzzakani)                       |
-| Case Management with TheHive                  | [SOC Automation Project](https://github.com/YounessAzzakani)                       |
 | Log Correlation & Attack Path Detection       | [MITRE ATT&CK Correlation Tool (Java + ML)](https://github.com/YounessAzzakani)    |
-| Scripting & Automation for Threat Mitigation  | [AES Encryption & Decryption in Java](https://github.com/YounessAzzakani)          |
+| Scripting & Automation for Offensive/Defensive Tasks | [AES Encryption & Decryption in Java](https://github.com/YounessAzzakani)  |
 
 ---
 
@@ -43,26 +42,25 @@ My goal is to join a **Security Operations Center (SOC)** as a **Tier 1 / Junior
     <img src="https://img.shields.io/badge/-Nmap-004D99?&style=for-the-badge&logo=Nmap&logoColor=white" />
 </div>
 
-### 💻 Endpoint
+### 💻 Endpoint / Red Team
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Sysmon-007ACC?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-BloodHound-0A0A0A?&style=for-the-badge&logo=Neo4j&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Impacket-111111?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Mimikatz-8B0000?&style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
-### 📊 SIEM
+### 📊 SIEM / Blue Team
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic_SIEM-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Graylog-4B4B4B?&style=for-the-badge&logo=Graylog&logoColor=white" />
 </div>
 
 ### 🧰 Other
 <div>
     <img src="https://img.shields.io/badge/-TheHive-FCC624?&style=for-the-badge&logo=Apache&logoColor=black" />
     <img src="https://img.shields.io/badge/-Shuffle_SOAR-00BFFF?&style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cortex_Analyzer-181717?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
     <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
 </div>
 
@@ -79,11 +77,11 @@ My goal is to join a **Security Operations Center (SOC)** as a **Tier 1 / Junior
 
 🚀 **Projects**
 
-- 🧩 [Detection & Attack Path Correlation (Java + ML)](https://github.com/YounessAzzakani)
-- ⚙️ [SOC Automation Project (Shuffle SOAR + TheHive)](https://github.com/YounessAzzakani)
-- 🔐 [AES Encryption & Decryption using Java](https://github.com/YounessAzzakani)
-- 🧠 [Machine Learning for Intrusion Detection (RandomForest vs XGBoost)](https://github.com/YounessAzzakani)
-- 🕵️ [Active Directory Attacks Lab (Pass-the-Hash, Kerberoasting, etc.)](https://github.com/YounessAzzakani)
+- 🕵️ [Active Directory Attacks Lab — pentest-focused (Pass-the-Hash, Kerberoasting)](https://github.com/YounessAzzakani)  
+- 🧩 [Detection & Attack Path Correlation (Java + ML)](https://github.com/YounessAzzakani)  
+- ⚙️ [SOC Automation Project (Shuffle SOAR + TheHive)](https://github.com/YounessAzzakani)  
+- 🔐 [AES Encryption & Decryption using Java](https://github.com/YounessAzzakani)  
+- 🧠 [ML for Intrusion Detection (RandomForest vs XGBoost)](https://github.com/YounessAzzakani)
 
 ---
 
@@ -92,3 +90,11 @@ My goal is to join a **Security Operations Center (SOC)** as a **Tier 1 / Junior
 - 💼 [LinkedIn](https://linkedin.com/in/youness-azzakani)  
 - 🧑‍💻 [GitHub](https://github.com/YounessAzzakani)  
 - ✉️ Email: youness.azzakani@example.com
+
+---
+
+**Notes / Next steps**
+
+- I can add a short “Available for internships” badge at the top (visual signal for recruiters).  
+- I can also add GitHub stats cards, a dark-themed banner, or tailor the projects section with short descriptions and key screenshots/links.  
+- If you want, provide your real GitHub & LinkedIn links + email and I’ll insert them directly into the file.
