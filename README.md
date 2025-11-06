@@ -24,12 +24,7 @@ I want to gain hands-on experience applying attack techniques and/or detection a
 | Skill                                         | Associated Project                                                                 |
 |----------------------------------------------|------------------------------------------------------------------------------------|
 | Penetration Testing & Vulnerability Assessment| [Active Directory Attacks Lab (Pentest-focused)](https://github.com/YounessAzzakani) |
-| SIEM Implementation and Log Analysis          | [Detection and Attack Path Correlation (Java)](https://github.com/YounessAzzakani) |
-| Network Traffic Monitoring & Attack Detection | [Detection Lab / Network Monitoring Exercises](https://github.com/YounessAzzakani) |
-| Security Automation with Shuffle SOAR         | [SOC Automation Project](https://github.com/YounessAzzakani)                       |
-| Incident Response Planning & Execution        | [SOC Automation Project](https://github.com/YounessAzzakani)                       |
-| Log Correlation & Attack Path Detection       | [MITRE ATT&CK Correlation Tool (Java + ML)](https://github.com/YounessAzzakani)    |
-| Scripting & Automation for Offensive/Defensive Tasks | [AES Encryption & Decryption in Java](https://github.com/YounessAzzakani)  |
+| Scripting & Automation for Offensive/Defensive Tasks | [AES Encryption & Decryption in Java]([https://github.com/YounessAzzakani](https://github.com/YounessAzzakani/AES-DynamicKey-Crypto-Java.git))  |
 
 ---
 
