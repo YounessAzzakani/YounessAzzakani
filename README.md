@@ -4,8 +4,6 @@
 
 ---
 
-**Brief Introduction**
-
 I’m a cybersecurity student currently pursuing a **Master’s in Cybersecurity, Intelligence, and Emerging Technologies (CITEch)** at *Mohammed V University of Rabat*.  
 I’m passionate about all aspects of cybersecurity — from understanding how attacks are performed to learning how to detect, analyze, and respond to them.  
 My learning approach is practical and hands-on: I enjoy experimenting through labs, projects, and simulations that strengthen both my technical skills and problem-solving mindset.  
