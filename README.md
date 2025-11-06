@@ -1,13 +1,16 @@
 # Hello, I'm Youness Azzakani  
-<a href="https://linkedin.com/in/youness-azzakani" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:youness.azzakani@example.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="www.linkedin.com/in/youness-azzakani-547797297" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:azzakani20@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ---
 
 **Brief Introduction**
 
 I’m a cybersecurity student currently pursuing a **Master’s in Cybersecurity, Intelligence, and Emerging Technologies (CITEch)** at *Mohammed V University of Rabat*.  
-While I have experience across defensive tools and SOC workflows, I currently prefer **offensive security and penetration testing** — building practical skills through labs, AD attack simulations, and red-team style assessments. I also enjoy log analysis, building detection pipelines, and automation. I learn by doing (labs, code, and CTF-like exercises) and I’m constantly improving my toolkit.
+I’m passionate about all aspects of cybersecurity — from understanding how attacks are performed to learning how to detect, analyze, and respond to them.  
+My learning approach is practical and hands-on: I enjoy experimenting through labs, projects, and simulations that strengthen both my technical skills and problem-solving mindset.  
+I’m constantly expanding my knowledge across areas like network security, system hardening, vulnerability analysis, and security automation.
+
 
 ---
 
@@ -90,11 +93,3 @@ I want to gain hands-on experience applying attack techniques and/or detection a
 - 💼 [LinkedIn](https://linkedin.com/in/youness-azzakani)  
 - 🧑‍💻 [GitHub](https://github.com/YounessAzzakani)  
 - ✉️ Email: youness.azzakani@example.com
-
----
-
-**Notes / Next steps**
-
-- I can add a short “Available for internships” badge at the top (visual signal for recruiters).  
-- I can also add GitHub stats cards, a dark-themed banner, or tailor the projects section with short descriptions and key screenshots/links.  
-- If you want, provide your real GitHub & LinkedIn links + email and I’ll insert them directly into the file.
