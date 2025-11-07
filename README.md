@@ -23,7 +23,7 @@ I want to gain hands-on experience applying attack techniques and/or detection a
 
 | Skill                                         | Associated Project                                                                 |
 |----------------------------------------------|------------------------------------------------------------------------------------|
-| Penetration Testing & Vulnerability Assessment| [Active Directory Attacks Lab (Pentest-focused)](https://github.com/YounessAzzakani/active-directory-lab.git) |
+| Penetration Testing & Vulnerability Assessment| [ Active Directory Deployment & Offensive Lab](https://github.com/YounessAzzakani/active-directory-lab.git) |
 | Scripting & Automation for Offensive/Defensive Tasks | [AES Encryption & Decryption in Java](https://github.com/YounessAzzakani/AES-DynamicKey-Crypto-Java.git)  |
 
 ---
@@ -69,10 +69,25 @@ I want to gain hands-on experience applying attack techniques and/or detection a
 ---
 
 📜 **Certifications**
+
 <div>
-    <img src="https://img.shields.io/badge/-Certified_Cybersecurity_Analyst_(CDSA)-006400?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TryHackMe_Badges-009CDE?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Coursera-0056D2?&style=for-the-badge&logo=coursera&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TryHackMe-009CDE?&style=for-the-badge&logo=tryhackme&logoColor=white" />
 </div>
+
+- **Google Cybersecurity Professional Certificate — Coursera**  
+  _Issuers:_ Google, UM6P, Morocco Digital Academy — **2025**  
+  [Certificate PDF / Verify](YOUR_LINK_HERE)
+
+- **Generative AI: Prompt Engineering Basics — Coursera**  
+  _Issuer:_ IBM, UM6P, Morocco Digital Academy — **2025**  
+  [Certificate PDF / Verify](YOUR_LINK_HERE)
+
+- **TryHackMe: PreSecurity** — Introductory path covering cybersecurity fundamentals and how technologies function before attack/defense stages.  
+  [Certificate / Verify](YOUR_LINK_HERE)
+
+- **TryHackMe: Cyber Security 101** — Introduction to cybersecurity fundamentals: networks, cryptography, Windows/AD/Linux basics, offensive & defensive tools, and career paths.  
+  [Certificate / Verify](YOUR_LINK_HERE)
 
 ---
 
