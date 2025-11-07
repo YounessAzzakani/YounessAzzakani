@@ -90,7 +90,7 @@ I want to gain hands-on experience applying attack techniques and/or detection a
 
 - **Generative AI: Prompt Engineering Basics — Coursera**  
   _Issuer:_ IBM, UM6P, Morocco Digital Academy — **2025**  
-  [Certificate PDF / Verify]([YOUR_LINK_HERE](https://coursera.org/share/234d09e1b84ab04b8256439a418de301))
+  [Certificate PDF / Verify](https://coursera.org/share/234d09e1b84ab04b8256439a418de301)
 
 ---
 
