@@ -77,17 +77,20 @@ I want to gain hands-on experience applying attack techniques and/or detection a
 
 - **Google Cybersecurity Professional Certificate — Coursera**  
   _Issuers:_ Google, UM6P, Morocco Digital Academy — **2025**  
-  [Certificate PDF / Verify](YOUR_LINK_HERE)
+  [Certificate PDF / Verify](https://mda.um6p.ma/moodle/mod/customcert/view.php?id=1389&downloadown=1)
 
-- **Generative AI: Prompt Engineering Basics — Coursera**  
-  _Issuer:_ IBM, UM6P, Morocco Digital Academy — **2025**  
-  [Certificate PDF / Verify](YOUR_LINK_HERE)
-
-- **TryHackMe: PreSecurity** — Introductory path covering cybersecurity fundamentals and how technologies function before attack/defense stages.  
-  [Certificate / Verify](YOUR_LINK_HERE)
+- **TryHackMe: Jr. Penetration Tester** — *In progress 83%* (Jr. pentest learning path on TryHackMe).  
+  [Progress / Verify](YOUR_LINK_HERE)
 
 - **TryHackMe: Cyber Security 101** — Introduction to cybersecurity fundamentals: networks, cryptography, Windows/AD/Linux basics, offensive & defensive tools, and career paths.  
   [Certificate / Verify](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ZD3HAHP2VF.pdf)
+
+- **TryHackMe: PreSecurity** — Introductory path covering cybersecurity fundamentals and how technologies function before attack/defense stages.  
+  [Certificate / Verify](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-6RZSFGSIU8.pdf)
+
+- **Generative AI: Prompt Engineering Basics — Coursera**  
+  _Issuer:_ IBM, UM6P, Morocco Digital Academy — **2025**  
+  [Certificate PDF / Verify]([YOUR_LINK_HERE](https://coursera.org/share/234d09e1b84ab04b8256439a418de301))
 
 ---
 
