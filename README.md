@@ -87,7 +87,7 @@ I want to gain hands-on experience applying attack techniques and/or detection a
   [Certificate / Verify](YOUR_LINK_HERE)
 
 - **TryHackMe: Cyber Security 101** — Introduction to cybersecurity fundamentals: networks, cryptography, Windows/AD/Linux basics, offensive & defensive tools, and career paths.  
-  [Certificate / Verify](YOUR_LINK_HERE)
+  [Certificate / Verify](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ZD3HAHP2VF.pdf)
 
 ---
 
