@@ -23,7 +23,7 @@ I want to gain hands-on experience applying attack techniques and/or detection a
 
 | Skill                                         | Associated Project                                                                 |
 |----------------------------------------------|------------------------------------------------------------------------------------|
-| Penetration Testing & Vulnerability Assessment| [Active Directory Attacks Lab (Pentest-focused)](https://github.com/YounessAzzakani) |
+| Penetration Testing & Vulnerability Assessment| [Active Directory Attacks Lab (Pentest-focused)](https://github.com/YounessAzzakani/active-directory-lab.git) |
 | Scripting & Automation for Offensive/Defensive Tasks | [AES Encryption & Decryption in Java](https://github.com/YounessAzzakani/AES-DynamicKey-Crypto-Java.git)  |
 
 ---
@@ -78,7 +78,7 @@ I want to gain hands-on experience applying attack techniques and/or detection a
 
 🚀 **Projects**
 
-- 🕵️ [Active Directory Attacks Lab — pentest-focused (Pass-the-Hash, Kerberoasting)](https://github.com/YounessAzzakani)  
+- 🕵️ [Active Directory Deployment & Offensive Lab](https://github.com/YounessAzzakani/active-directory-lab.git)  
 - 🧩 [Detection & Attack Path Correlation (Java + ML)](https://github.com/YounessAzzakani)  
 - 🔐 [AES Encryption & Decryption using Java](https://github.com/YounessAzzakani/AES-DynamicKey-Crypto-Java.git)  
 - 🧠 [ML for Intrusion Detection (RandomForest vs XGBoost)](https://github.com/YounessAzzakani)
