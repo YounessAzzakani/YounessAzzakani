@@ -14,7 +14,7 @@ I’m constantly expanding my knowledge across areas like network security, syst
 
 🎯 **Objective**
 
-I am actively looking for an **internship (PFE / internship)** in cybersecurity — open to either **offensive (pentest/red team)** or **defensive (SOC/blue team)** roles.  
+I am actively looking for an **internship (PFE / end-of-studies)** in cybersecurity — open to either **offensive (pentest/red team)** or **defensive (SOC/blue team)** roles.  
 I want to gain hands-on experience applying attack techniques and/or detection and response workflows, and contribute to real-world security teams.
 
 ---
