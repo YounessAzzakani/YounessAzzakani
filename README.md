@@ -79,8 +79,13 @@ I want to gain hands-on experience applying attack techniques and/or detection a
   _Issuers:_ Google, UM6P, Morocco Digital Academy — **2025**  
   [Certificate PDF / Verify](https://mda.um6p.ma/moodle/mod/customcert/view.php?id=1389&downloadown=1)
 
-- **TryHackMe: Jr. Penetration Tester** — *In progress 83%* (Jr. pentest learning path on TryHackMe).  
-  [Progress / Verify](YOUR_LINK_HERE)
+- **TryHackMe: Jr. Penetration Tester** — Hands-on learning path covering penetration testing methodologies, enumeration, exploitation, reporting, and the use of industry-standard security tools through realistic hacking exercises.  
+  [Certificate / Verify](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ATRSEFORXW.pdf)
+
+- **TryHackMe: Web Fundamentals** — In Progress  
+  Path focused on web application security: web fundamentals, industry tools, major web vulnerabilities, hands-on exploitation, and practical assessments. *(Currently 83% complete)*  
+  [Certificate / Verify](YOUR_LINK_HERE)
+
 
 - **TryHackMe: Cyber Security 101** — Introduction to cybersecurity fundamentals: networks, cryptography, Windows/AD/Linux basics, offensive & defensive tools, and career paths.  
   [Certificate / Verify](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ZD3HAHP2VF.pdf)
