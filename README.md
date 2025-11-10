@@ -101,7 +101,9 @@ I want to gain hands-on experience applying attack techniques and/or detection a
 
 🚀 **Projects**
 
-- 🕵️ [Active Directory Deployment & Offensive Lab](https://github.com/YounessAzzakani/active-directory-lab.git)  
+- 🕵️ [Active Directory Deployment & Offensive Lab](https://github.com/YounessAzzakani/active-directory-lab.git)
+- - 🔍 [Phishing Simulation & XSS Exfiltration — Report](https://github.com/YounessAzzakani/Phishing-Simulation-XSS-Exfiltration.git)  
+  Chained lab demonstrating a phishing + site-cloning + reflected XSS flow to exfiltrate session cookies and hijack sessions (educational, isolated environment).  
 - 🧩 [Detection & Attack Path Correlation (Java + ML)](https://github.com/YounessAzzakani)  
 - 🔐 [AES Encryption & Decryption using Java](https://github.com/YounessAzzakani/AES-DynamicKey-Crypto-Java.git)  
 - 🧠 [ML for Intrusion Detection (RandomForest vs XGBoost)](https://github.com/YounessAzzakani)
