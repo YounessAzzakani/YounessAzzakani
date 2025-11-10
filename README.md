@@ -24,7 +24,8 @@ I want to gain hands-on experience applying attack techniques and/or detection a
 | Skill                                         | Associated Project                                                                 |
 |----------------------------------------------|------------------------------------------------------------------------------------|
 | Penetration Testing & Vulnerability Assessment| [ Active Directory Deployment & Offensive Lab](https://github.com/YounessAzzakani/active-directory-lab.git) |
-| Scripting & Automation for Offensive/Defensive Tasks | [AES Encryption & Decryption in Java](https://github.com/YounessAzzakani/AES-DynamicKey-Crypto-Java.git)  |
+| Social Engineering and Phishing Simulation | [Phishing Simulation & XSS Exfiltration](https://github.com/YounessAzzakani/Phishing-Simulation-XSS-Exfiltration.git) |
+| Web Application Vulnerability Exploitation (XSS) | [Phishing Simulation & XSS Exfiltration](https://github.com/YounessAzzakani/Phishing-Simulation-XSS-Exfiltration.git) |
 
 ---
 
