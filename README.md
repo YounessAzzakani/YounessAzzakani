@@ -106,5 +106,5 @@ I want to gain hands-on experience applying attack techniques and/or detection a
 - 🔍 [Phishing Simulation & XSS Exfiltration — Lab](https://github.com/YounessAzzakani/Phishing-Simulation-XSS-Exfiltration.git)    
 - 🧩 [Host-Based Intrusion Detection System (HIDS) with osquery](https://github.com/YounessAzzakani/HIDS-using-Osquery.git)  
 - 🔐 [AES Encryption & Decryption using Java](https://github.com/YounessAzzakani/AES-DynamicKey-Crypto-Java.git)  
-- 🧠 [ML for Intrusion Detection (RandomForest vs XGBoost)](https://github.com/YounessAzzakani)
+- 🧠 [ML for Intrusion Detection (RandomForest vs XGBoost vs SVM (Support Vector Machine))](https://github.com/YounessAzzakani/ML-NetworkIDS.git)
 
